@@ -49,7 +49,7 @@ __*Analysis/Visualization*__
 
 1. ```Graph histograms of your data with appropriate labels. ```
 
-      ![img_1.png](img_1.png)    ![img_2.png](img_2.png)
+   ![img_1.png](img_1.png)    ![img_2.png](img_2.png)
 
 2. ```Graph boxplots of your data with appropriate labels. ```
 
@@ -61,7 +61,7 @@ __*Analysis/Visualization*__
 
 4. ```Explain each graph in terms of variance, mean, median, and standard deviation. ```
 
-      ![img.png](img.png)
+   ![img.png](img.png)
 
 **Histogram of Leaf Width by Plant Type**
 
